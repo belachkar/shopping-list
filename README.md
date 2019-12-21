@@ -6,10 +6,8 @@
 | -------- | ------- | -------------------------------------------------------------------------------------------------------------- |
 | electron | ^7.1.7  | Electron is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS. |
 
-## Installing electron
+## Options
 
-electron was installed **globally**, to install it use this command:
-
-```nginx
-npm install --save-dev electron@^7.1.7
-```
+- Add an items
+- Update an item
+- Remove items
