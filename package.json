@@ -1,0 +1,27 @@
+{
+  "name": "shopping-list",
+  "version": "0.0.1",
+  "description": "Electron shopping list tutorial app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belachkar/shopping-list.git"
+  },
+  "keywords": [
+    "electron",
+    "shopping",
+    "list"
+  ],
+  "author": "Belachkar Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belachkar/shopping-list/issues"
+  },
+  "homepage": "https://github.com/belachkar/shopping-list#readme",
+  "dependencies": {
+    "electron": "^7.1.7"
+  }
+}
