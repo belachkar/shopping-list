@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/belachkar/shopping-list#readme",
   "dependencies": {
-    "electron": "^35.7.5"
+    "electron": "^39.8.4"
   }
 }
